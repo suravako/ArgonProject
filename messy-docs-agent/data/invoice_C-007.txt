@@ -1,0 +1,4 @@
+INVOICE for agreement C-007
+Vendor: Granite Insurance
+Month: last month
+Amount due: $9000

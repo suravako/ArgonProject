@@ -1,0 +1,6 @@
+SERVICE AGREEMENT C-008
+Between Northwind Traders Pvt Ltd ("Client") and Helix Software ("Vendor").
+Term: begins 2026-05-21 and ends 2027-05-21.
+Fees: Client pays $1200 per month.
+Renewal: This agreement renews automatically for 12 months unless Client gives written notice at least 90 days before the end date.
+Early termination: Client pays 0% of remaining fees.

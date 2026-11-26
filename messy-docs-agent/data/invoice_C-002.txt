@@ -1,0 +1,4 @@
+INVOICE for agreement C-002
+Vendor: BlueLeaf Cleaning
+Month: last month
+Amount due: $9000

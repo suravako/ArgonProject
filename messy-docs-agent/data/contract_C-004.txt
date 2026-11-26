@@ -1,0 +1,6 @@
+SERVICE AGREEMENT C-004
+Between Northwind Traders Pvt Ltd ("Client") and Delta Packaging ("Vendor").
+Term: begins 2026-01-30 and ends 2027-01-30.
+Fees: Client pays $2500 per month.
+Renewal: This agreement renews automatically for 12 months unless Client gives written notice at least 30 days before the end date.
+Early termination: Client pays 25% of remaining fees.

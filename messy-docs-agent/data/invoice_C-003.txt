@@ -1,0 +1,4 @@
+INVOICE for agreement C-003
+Vendor: Cortex IT Support
+Month: last month
+Amount due: $2875

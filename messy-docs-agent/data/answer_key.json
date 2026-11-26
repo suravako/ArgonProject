@@ -1,0 +1,82 @@
+[
+  {
+    "contract_id": "C-001",
+    "vendor": "Acme Freight",
+    "monthly_fee": 4000,
+    "end_date": "2027-03-02",
+    "auto_renew": true,
+    "notice_days": 30,
+    "termination_penalty_pct": 0,
+    "invoice_amount": 4000
+  },
+  {
+    "contract_id": "C-002",
+    "vendor": "BlueLeaf Cleaning",
+    "monthly_fee": 9000,
+    "end_date": "2027-02-01",
+    "auto_renew": true,
+    "notice_days": 30,
+    "termination_penalty_pct": 25,
+    "invoice_amount": 9000
+  },
+  {
+    "contract_id": "C-003",
+    "vendor": "Cortex IT Support",
+    "monthly_fee": 2500,
+    "end_date": "2027-01-03",
+    "auto_renew": true,
+    "notice_days": 60,
+    "termination_penalty_pct": 0,
+    "invoice_amount": 2875
+  },
+  {
+    "contract_id": "C-004",
+    "vendor": "Delta Packaging",
+    "monthly_fee": 2500,
+    "end_date": "2027-01-30",
+    "auto_renew": true,
+    "notice_days": 30,
+    "termination_penalty_pct": 25,
+    "invoice_amount": 2500
+  },
+  {
+    "contract_id": "C-005",
+    "vendor": "Evergreen Security",
+    "monthly_fee": 1200,
+    "end_date": "2027-04-08",
+    "auto_renew": false,
+    "notice_days": null,
+    "termination_penalty_pct": 0,
+    "invoice_amount": 1200
+  },
+  {
+    "contract_id": "C-006",
+    "vendor": "Falcon Fuel Cards",
+    "monthly_fee": 9000,
+    "end_date": "2027-07-06",
+    "auto_renew": true,
+    "notice_days": 30,
+    "termination_penalty_pct": 0,
+    "invoice_amount": 10350
+  },
+  {
+    "contract_id": "C-007",
+    "vendor": "Granite Insurance",
+    "monthly_fee": 9000,
+    "end_date": "2027-02-21",
+    "auto_renew": true,
+    "notice_days": 30,
+    "termination_penalty_pct": 25,
+    "invoice_amount": 9000
+  },
+  {
+    "contract_id": "C-008",
+    "vendor": "Helix Software",
+    "monthly_fee": 1200,
+    "end_date": "2027-05-21",
+    "auto_renew": true,
+    "notice_days": 90,
+    "termination_penalty_pct": 0,
+    "invoice_amount": 1200
+  }
+]

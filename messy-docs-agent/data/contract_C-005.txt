@@ -1,0 +1,6 @@
+SERVICE AGREEMENT C-005
+Between Northwind Traders Pvt Ltd ("Client") and Evergreen Security ("Vendor").
+Term: begins 2026-04-08 and ends 2027-04-08.
+Fees: Client pays $1200 per month.
+Renewal: This agreement expires at term end unless both parties sign a renewal.
+Early termination: Client pays 0% of remaining fees.

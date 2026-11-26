@@ -1,0 +1,6 @@
+SERVICE AGREEMENT C-002
+Between Northwind Traders Pvt Ltd ("Client") and BlueLeaf Cleaning ("Vendor").
+Term: begins 2026-02-01 and ends 2027-02-01.
+Fees: Client pays $9000 per month.
+Renewal: This agreement renews automatically for 12 months unless Client gives written notice at least 30 days before the end date.
+Early termination: Client pays 25% of remaining fees.

@@ -1,0 +1,4 @@
+INVOICE for agreement C-008
+Vendor: Helix Software
+Month: last month
+Amount due: $1200

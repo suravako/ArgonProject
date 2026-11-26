@@ -1,0 +1,4 @@
+INVOICE for agreement C-006
+Vendor: Falcon Fuel Cards
+Month: last month
+Amount due: $10350

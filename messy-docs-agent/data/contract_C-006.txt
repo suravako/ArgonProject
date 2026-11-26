@@ -1,0 +1,6 @@
+SERVICE AGREEMENT C-006
+Between Northwind Traders Pvt Ltd ("Client") and Falcon Fuel Cards ("Vendor").
+Term: begins 2026-07-06 and ends 2027-07-06.
+Fees: Client pays $9000 per month.
+Renewal: This agreement renews automatically for 12 months unless Client gives written notice at least 30 days before the end date.
+Early termination: Client pays 0% of remaining fees.

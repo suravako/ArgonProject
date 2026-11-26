@@ -1,0 +1,4 @@
+INVOICE for agreement C-004
+Vendor: Delta Packaging
+Month: last month
+Amount due: $2500

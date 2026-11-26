@@ -1,0 +1,4 @@
+INVOICE for agreement C-001
+Vendor: Acme Freight
+Month: last month
+Amount due: $4000
